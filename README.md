@@ -1,3 +1,6 @@
+https://forums.openkore.com/viewtopic.php?f=6&t=207278
+https://forums.openkore.com/viewtopic.php?f=36&t=13305&p=49440&hilit=Peek#p49440
+
 PEEK - Packet Extraction Evaluation Kit designed by Yommy and Neo.
 
 This extractor works for new files whose size is greater than 6 MB.
